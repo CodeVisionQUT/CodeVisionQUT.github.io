@@ -1,0 +1,5 @@
+module:com.cv.designvision
+com.cv.designvision
+com.cv.designvision.controllers
+com.cv.designvision.controllers.panels
+com.cv.designvision.models
