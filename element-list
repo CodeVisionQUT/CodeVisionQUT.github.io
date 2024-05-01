@@ -3,3 +3,5 @@ com.cv.designvision
 com.cv.designvision.controllers
 com.cv.designvision.controllers.panels
 com.cv.designvision.models
+com.cv.designvision.Services
+com.cv.designvision.utils
